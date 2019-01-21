@@ -1,0 +1,19 @@
+
+.App-header {
+  background-color: dimgrey; 
+  height: 120px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+body{
+  background-color: silver;
+}
